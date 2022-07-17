@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moamel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on pygame projects
 - 📫 How to reach me : moamall11@mail.ru
 
